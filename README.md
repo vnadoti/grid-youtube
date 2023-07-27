@@ -8,7 +8,8 @@ Desktop
 <img align="center" alt="Desktop"  width="90%" src="https://i.postimg.cc/LX8SrdTw/Screenshot-1.png">
 
 <br>
-## 💡 Desafios 
+
+## 💡 Desafios
 Hoje me desafiei com um exercício de CSS que me permitiu explorar diversas técnicas avançadas, aproveitei e resolvi explorar um pouco mais a criatividade onde tentei "clonar" um pedaço do Layout do youtube.
 Durante o exercício, pude fixar melhor os conceitos como Flexbox, Grid e seletores avançados, tornando meu código mais eficiente.
 
